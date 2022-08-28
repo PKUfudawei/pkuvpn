@@ -9,7 +9,7 @@ set pku_stu_pwd ***
 
 spawn sudo openconnect --protocol=nc https://vpn.pku.edu.cn
 
-expect "*Password*"
+expect "Password:"
 send "$root_pwd\r"
 
 expect "username:"
