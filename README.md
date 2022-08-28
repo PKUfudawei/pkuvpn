@@ -18,3 +18,5 @@ In this directory: `./pkuvpn.sh`
 [Official Introduction to PKU VPN](https://its.pku.edu.cn/service_1_vpn.jsp)
 
 [Clients Installation for PKU VPN](https://its.pku.edu.cn/service_1_vpn_client.jsp)
+
+[OpenConnect Documentation](https://www.infradead.org/openconnect/)
