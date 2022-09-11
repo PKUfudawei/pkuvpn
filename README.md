@@ -1,7 +1,7 @@
 # pkuvpn
 Command-line script to access global proxy via PKU VPN
 
-## *Stabler and Simpler by `pkuvpn` than GUI*
+## *Stabler and Simpler by one-line command than GUI*
 ### 0. OpenConnect Installation (If not installed on your machine)
 - Mac OS: `brew install openconnect`
 
@@ -18,7 +18,7 @@ Command-line script to access global proxy via PKU VPN
 
 - `source ~/.zshrc` (for Mac OS) or `source ~/.bashrc` (for Linux)
 
-- Now everything is finished! Just type `pkuvpn` in ***any directory*** to access your own PKU proxy
+- Now everything is finished! Just type one-line command `pkuvpn` in ***any directory*** to access your own PKU proxy
 
 
 ## *Appendix*
