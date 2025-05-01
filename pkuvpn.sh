@@ -7,15 +7,15 @@ set pku_stu_id ***
 ## modify *** to password for your PKU student ID
 set pku_stu_pwd ***
 
-spawn sudo openconnect --protocol=nc https://vpn.pku.edu.cn
+spawn sudo openconnect --protocol=pulse https://vpn.pku.edu.cn
 
 expect "Password:"
 send "$root_pwd\r"
 
-expect "username:"
+expect "Username:"
 send "$pku_stu_id\r"
 
-expect "password:"
+expect "Password:"
 send "$pku_stu_pwd\r"
 
 interact
