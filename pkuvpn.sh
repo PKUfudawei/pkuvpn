@@ -15,7 +15,7 @@ send "$root_pwd\r"
 expect "Username:"
 send "$pku_stu_id\r"
 
-expect "Password:"
+expect "密码：|Password:"
 send "$pku_stu_pwd\r"
 
 interact

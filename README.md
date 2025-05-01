@@ -26,7 +26,7 @@ Before using the script, ensure you have `openconnect` installed on your system.
 
 1.  **Clone the repository (if you haven't already):**
     ```bash
-    git clone https://github.com/madeyexz/pkuvpn.git
+    git clone https://github.com/PKUfudawei/pkuvpn.git
     cd pkuvpn
     ```
 2.  **Edit `pkuvpn.sh`:**
